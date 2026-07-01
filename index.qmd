@@ -1,7 +1,133 @@
 ---
-title: "resume"
+title: "Rachel Rapier"
 ---
 
-This is a Quarto website.
+1242 E. Mifflin, Apt. 2 • Madison, WI 53703  
+713-818-8702 • rachelrapier@gmail.com
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+
+### M.S. Data Science in Human Behavior
+University of Wisconsin, Madison – Current
+
+### B.A. Cognitive Science | Concentration: Cognitive Psychology
+University of California, Berkeley - 2018
+
+## Research Experience
+
+### Sanjuan Lab, University of New Mexico
+**Research Scientist I** | October 2022 – May 2024
+
+- Headed an ecological momentary assessment (EMA) study on alcohol and emotions
+- Coordinated schedules and payments for 30+ participants during their 5 - 7 weeks of study participation
+- Developed protocols for MRI visits, including creating fMRI tasks in Eprime and setting up physiological measures with AcqKnowledge and Biopac
+- Consented participants and administered assessments such as: WASI, TLFB, Imagery Script Development, etc.
+- Wrote and recorded personalized stress and neutral audio cues for fMRI scans based on each participant's Imagery Scripts
+- Created short scripts and algorithms in R to clean, organize, and display data
+- Submitted IRB modifications and updated measures on MetricWire and Redcap
+- Recognized for exemplary performance by the Department of Family and Community Medicine (Dec. 2023)
+- Software used: Eprime, AcqKnowledge, R, MetricWire, Redcap, SPSS
+
+### Kiehl Lab, Mind Research Network
+**Clinical Research Coordinator/Mobile MRI Technician** | June 2021 – September 2022
+
+- Set-up and managed three healthy control studies
+- Recruited healthy control participants through various digital marketing methods
+- Screened, called, and scheduled over 50 healthy control participants
+- Managed multiple petty cash accounts
+- Completed study visits with Healthy Control subjects, including consenting participants to the study and administering assessments such as: WASI/WRAT, TLFB, ASI, SES measures
+- Collected and properly stored saliva samples from participants
+- Trained research coordinators on the administration of the consent form and the WASI/WRAT
+- Scanned over 100 healthy community and incarcerated participants using various MRI & fMRI protocols
+- Authored SOPs for the mobile MRI scanners and multiple study protocols, used to train future MRI tech's
+- Conducted literature reviews
+- Used a database of over 6,000 participants to examine personal research questions with the post-doctoral candidates in the lab
+- Developed short scripts and algorithms in MATLAB to clean and organize data for analysis
+- Attended a 40-hour prison training requiring high levels of professionalism
+- Collected, entered, and managed participant data (COINS & Hard Copies)
+- Software used: Eprime, Presentation, MATLAB, COINS
+
+### Brain Stimulation Lab, Stanford University
+**Assistant Clinical Research Coordinator** | July 2019 – May 2020
+
+- Created the budget and proposal, reviewed the literature, developed the protocol and RedCap project, choose the proper measures/questionnaires, and crafted an approved IRB proposal for an international, observational study assessing the effects of ibogaine on participants with a history of PTSD and/or TBI.
+- Created and managed a small team to aid in the development of the PTSD/TBI study
+- Implemented EEG protocols and ensured clean data recordings during afternoon TMS treatments for the SAINT-TRD Study.
+- Administrated SAINT-TRD with the MagVenture TMS device.
+- Collected, entered, checked, and managed data (Redcap & Hard Copies)
+- Helped prepare study binders for audits
+- Ensured participant comfort during all study visits
+- Software used: Redcap
+
+### Bonding and Attunement in Neuropsychiatric Disorders Lab, San Francisco Veterans Affairs Medical Center (SFVAMC) & University of California San Francisco
+**Research Assistant** | August 2018 – July 2019  
+**Volunteer Research Assistant** | February 2018 – August 2018
+
+- Promoted from a volunteer to a full-time employee after graduation from UC Berkeley
+- Used motivational interviewing and other techniques to work effectively with a participant population of veterans currently struggling with opioid and stimulant abuse.
+- Reviewed literature, organized and analyzed data, presented findings, and wrote a peer-reviewed journal article as a first author.
+- Transcribed, analyzed, and assessed language use in group therapy sessions
+- Collected, entered, cleaned, and managed data (Redcap & Hard Copies).
+- Collected and cleaned HRV data.
+- Administered study drug to participants (nasal oxytocin).
+- Helped prepare study binders for audits
+- Streamlined data processing and analysis by creating scripts in MatLab, Python, and SPSS
+- Software used: Redcap, MatLab, Python, SPSS
+
+### Department of Psychology, University of California Berkeley
+**Student Research Assistant** | May 2017 – May 2018
+
+- Assisted in facilitating focus group discussions with current tobacco users
+- Transcribed and used qualitative data to analyze focus groups
+- Managed daily participant data and sent participants survey reminders for an EMA study
+- Recruited, screened, and scheduled community participants for the study.
+- Software used: Qualtrics
+
+## Other Work Experience
+
+### The Hythe | Vail, CO
+**Lobby Bartender** | August 2024 – April 2025  
+**Pool Bartender** | June 2024 – August 2024
+
+### The Daily Pint | Berkeley, CA
+**Lead Bartender** | May 2017 – February 2018
+
+### Bridges Rock Gym | El Cerrito, CA
+**Rock Climbing Coach** | October 2017 – May 2018  
+**Belay Staff** | May 2016 – May 2018
+
+## Publications
+
+- Rapier, R., Mckernan, S., & Stauffer, C. S. (2019). An inverse relationship between perceived social support and substance use frequency in socially stigmatized populations. Addictive Behaviors Reports, 10, 100188. doi:10.1016/j.abrep.2019.100188
+- Stauffer, C. S., Moschetto, J. M., Mckernan, S., Meinzer, N., Chiang, C., Rapier, R., Hsiang, E., Norona, J., Borsari, B., & Woolley, J. D. (2020). Oxytocin-enhanced group therapy for methamphetamine use disorder: Randomized controlled trial. Journal of Substance Abuse Treatment. doi:10.1016/j.jsat.2020.108059
+- Phillips, A. L., Cole, E. J., Bentzley, B. S., Stimpson, K. H., Nejad, R., Tischler, C., Barmak, F., Veerapal, C., Khan, N., Cherian, K., Felber, E., Brown, R., Choi, E., Bishop, J., Azeez, Ph. D. A., Coetzee, J., Rapier, R., Odenwald, N., Carreon, D., … Williams, N. R. (2020). Stanford Accelerated Intelligent Neuromodulation Therapy (SAINT-TRD) induces rapid remission from treatment-resistant depression in a double-blinded, randomized, and controlled trial. Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation, 13(6), 1859–1860. https://doi.org/10.1016/j.brs.2020.06.071
+- Cole, E. J., Phillips, A. L., Bentzley, B. S., Stimpson, K. H., Nejad, R., Barmak, F., Veerapal, C., Khan, N., Cherian, K., Felber, E., Brown, R., Choi, E., King, S., Pankow, H., Bishop, J.H., Azeez, A., Coetzee, J., Rapier, R., Odenwald, N., Carreon, D., … Williams, N. R. (2022). Stanford Neuromodulation Therapy (SNT): A Double-Blind Randomized Controlled Trial. American Journal of Psychiatry, 179(2), 132–141. https://doi.org/10.1176/appi.ajp.2021.20101429
+
+## Presentations
+
+### Poster Presentation
+2019 Addiction Poster Session and Data Blitz, San Francisco | January 2019  
+Language use in oxytocin-enhanced motivational interviewing group therapy for methamphetamine-using men who have sex with men
+
+## Professional Development
+
+### Psychedelic Sciences Convention
+Presented by The Multidisciplinary Association for Psychedelic Studies & The Beckley Foundation  
+April 2017, Oakland, CA
+
+### Statistics 101: Principles of Statistics
+Course taught through Study.com  
+August 2020 – October 2020, Virtual
+
+### fMRI Image Acquisition and Analysis Course
+Analysis of neuroimaging data with Statistical Parametric Mapping, Independent Component Analysis, and more  
+Instructors: Kent Kiehl, Vince Calhoun, & Tor Wager  
+October 2021, Virtual
+
+### Exploring Psychedelics & Entactogens to Treat Psychiatric Disorders
+National Academies' Workshop  
+March 2022, Virtual
+
+### Learn R; Analyze Data with R; Getting Started Off-Platform for Data Science
+Courses taught through codecademy.com  
+August 2023 – May 2024, Virtual
